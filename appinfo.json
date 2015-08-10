@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Tin Foil Labs, Inc.",
+    "longName": "I Can Count with Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/DigitaldreamFat.ttf",
+                "name": "DIGITAL_DREAM_FAT_SUBSET_28",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "I Can Count",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3782f5b9-2a7c-4531-90d7-1bd6750ba65a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
