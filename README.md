@@ -1,5 +1,5 @@
 # I Can Count
-Well, actually, I can't. You'd be surprised how hard it is to count to three 10 times over a 30 minute period of a heavy lifting workout. The Pebble app runs on the watch and provides a simple stopwatch and counter. I threw it together one afternoon before I went to the gym, so, it's not perfect.
+Well, actually, I can't. You'd be surprised how hard it is to count to three 10 times over a 30 minute period of a heavy lifting workout. The Pebble app runs on the watch and provides a simple stopwatch and counter. I threw it together one afternoon before I went to the gym, so, it's not perfect. But I still use it months later.
 
 # TODO
  - Remember state between app restarts.
